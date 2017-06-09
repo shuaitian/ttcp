@@ -1,2 +1,2 @@
 # ttcp
-a implementation of ttcp protocol
+An implementation of ttcp protocol
